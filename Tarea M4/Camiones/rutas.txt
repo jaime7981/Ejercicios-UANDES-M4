@@ -1,0 +1,24 @@
+Santiago,Rancagua,Talca,Chillan,Concepcion,Temuco,Valdivia,Osorno,Puerto Montt
+Santiago,Vina del Mar,Valparaiso,Santiago,Rancagua,Talca,Rancagua,Santiago
+Temuco,Valdivia,Osorno,Puerto Montt,Osorno,Valdivia,Temuco,Concepcion,Talca,Rancagua,Santiago
+Santiago,Rancagua,Talca
+Santiago,Rancagua,Talca,Chillan
+Chillan,Talca,Rancagua,Santiago
+Santiago,Vina del Mar
+Vina del Mar,Santiago
+Santiago,Valparaiso
+Valparaiso,Santiago
+Santiago,Temuco
+Santiago,Vina del Mar,La Serena
+Vina del Mar,La Serena
+La Serena,Vina del Mar
+Coquimbo,La Serena
+Coquimbo,Vina del Mar
+Coquimbo,La Serena,Vina del Mar
+Santiago,Vina del Mar,La Serena,Calama
+Santiago,Vina del Mar,La Serena,Calama,Iquique
+Santiago,Vina del Mar,La Serena,Calama,Antofagasta,Iquique,Arica
+Arica,Iquique,Calama,Antofagasta,La Serena,Vina del Mar,Santiago
+Arica,Iquique,Antofagasta,Calama
+La Serena,Calama,Iquique
+Iquique,Calama,La Serena
